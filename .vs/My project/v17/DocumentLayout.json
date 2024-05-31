@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdelaziz\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\abdelaziz\\my project\\assets\\code\\managersript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\managersript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Abdelaziz\\My project\\assets\\code\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelaziz\\My project\\Assets\\Code\\SnakeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\SnakeController.cs",
+              "ToolTip": "C:\\Users\\Abdelaziz\\My project\\Assets\\Code\\SnakeController.cs",
+              "RelativeToolTip": "Assets\\Code\\SnakeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:58:47.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerSript.cs",
+              "DocumentMoniker": "C:\\Users\\Abdelaziz\\My project\\Assets\\Code\\ManagerSript.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ManagerSript.cs",
+              "ToolTip": "C:\\Users\\Abdelaziz\\My project\\Assets\\Code\\ManagerSript.cs",
+              "RelativeToolTip": "Assets\\Code\\ManagerSript.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAAAHcBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:54:14.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
